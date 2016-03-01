@@ -1,0 +1,90 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Bold
+FamilyName:Lato
+StyleName:Bold
+MenuName:Lato
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Lato Bold
+WritingScript:Roman
+OutlineFileName:\Lato-Bold.ttf
+DataFormat:sfntData
+FileLength:657188
+FileModTime:1446461307
+NameArray:0,Mac,4,Lato Bold
+NameArray:0,Win,1,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Heavy
+FamilyName:Lato
+StyleName:Heavy
+MenuName:Lato Heavy
+StyleBits:0
+WeightClass:800
+WidthClass:5
+AngleClass:0
+FullName:Lato Heavy
+WritingScript:Roman
+OutlineFileName:\Lato-Heavy.ttf
+DataFormat:sfntData
+FileLength:665420
+FileModTime:1446461307
+NameArray:0,Mac,4,Lato Heavy
+NameArray:0,Win,1,Lato Heavy
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Medium
+FamilyName:Lato
+StyleName:Medium
+MenuName:Lato Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Lato Medium
+WritingScript:Roman
+OutlineFileName:\Lato-Medium.ttf
+DataFormat:sfntData
+FileLength:637068
+FileModTime:1446461307
+NameArray:0,Mac,4,Lato Medium
+NameArray:0,Win,1,Lato Medium
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Semibold
+FamilyName:Lato
+StyleName:Semibold
+MenuName:Lato Semibold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Lato Semibold
+WritingScript:Roman
+OutlineFileName:\Lato-Semibold.ttf
+DataFormat:sfntData
+FileLength:669228
+FileModTime:1446461307
+NameArray:0,Mac,4,Lato Semibold
+NameArray:0,Win,1,Lato Semibold
+NameArray:0,Win,16,Lato
+%EndFont
+

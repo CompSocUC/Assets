@@ -1,0 +1,393 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:DIN-Bold
+FamilyName:DIN
+StyleName:Bold
+MenuName:DIN
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:DIN-Bold
+WritingScript:Roman
+OutlineFileName:\DIN-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28640
+FileModTime:1166896990
+NameArray:0,Mac,4,DIN-Bold
+NameArray:0,Win,1,DIN
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:DIN-Medium
+FamilyName:DIN
+StyleName:Medium
+MenuName:DIN
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:DIN-Medium
+WritingScript:Roman
+OutlineFileName:\DIN-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27828
+FileModTime:1166896990
+NameArray:0,Mac,4,DIN-Medium
+NameArray:0,Win,1,DIN
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Georgia-BoldItalic
+FamilyName:Georgia
+StyleName:Bold Italic
+MenuName:Georgia
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Georgia Bold Italic
+WritingScript:Roman
+OutlineFileName:\Georgia Bold Italic.ttf
+DataFormat:sfntData
+FileLength:385768
+FileModTime:1426798147
+NameArray:0,Mac,4,Georgia Bold Italic
+NameArray:0,Win,1,Georgia
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Georgia-Bold
+FamilyName:Georgia
+StyleName:Bold
+MenuName:Georgia
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Georgia Bold
+WritingScript:Roman
+OutlineFileName:\Georgia Bold.ttf
+DataFormat:sfntData
+FileLength:363800
+FileModTime:1426798147
+NameArray:0,Mac,4,Georgia Bold
+NameArray:0,Win,1,Georgia
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Georgia-Italic
+FamilyName:Georgia
+StyleName:Italic
+MenuName:Georgia
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Georgia Italic
+WritingScript:Roman
+OutlineFileName:\Georgia Italic.ttf
+DataFormat:sfntData
+FileLength:400624
+FileModTime:1426798147
+NameArray:0,Mac,4,Georgia Italic
+NameArray:0,Win,1,Georgia
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Georgia
+FamilyName:Georgia
+StyleName:Regular
+MenuName:Georgia
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Georgia
+WritingScript:Roman
+OutlineFileName:\Georgia.ttf
+DataFormat:sfntData
+FileLength:379588
+FileModTime:1426798147
+NameArray:0,Mac,4,Georgia
+NameArray:0,Win,1,Georgia
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Black
+FamilyName:Lato
+StyleName:Black
+MenuName:Lato Black
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Lato Black
+WritingScript:Roman
+OutlineFileName:\Lato-Black.ttf
+DataFormat:sfntData
+FileLength:614544
+FileModTime:1446461307
+NameArray:0,Mac,4,Lato Black
+NameArray:0,Win,1,Lato Black
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-BlackItalic
+FamilyName:Lato
+StyleName:Black Italic
+MenuName:Lato Black
+StyleBits:1
+WeightClass:900
+WidthClass:5
+AngleClass:1
+FullName:Lato Black Italic
+WritingScript:Roman
+OutlineFileName:\Lato-BlackItalic.ttf
+DataFormat:sfntData
+FileLength:672480
+FileModTime:1446461307
+NameArray:0,Mac,4,Lato Black Italic
+NameArray:0,Win,1,Lato Black
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Bold
+FamilyName:Lato
+StyleName:Bold
+MenuName:Lato
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Lato Bold
+WritingScript:Roman
+OutlineFileName:\Lato-Bold.ttf
+DataFormat:sfntData
+FileLength:657188
+FileModTime:1446461307
+NameArray:0,Mac,4,Lato Bold
+NameArray:0,Win,1,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-BoldItalic
+FamilyName:Lato
+StyleName:Bold Italic
+MenuName:Lato
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Lato Bold Italic
+WritingScript:Roman
+OutlineFileName:\Lato-BoldItalic.ttf
+DataFormat:sfntData
+FileLength:699008
+FileModTime:1446461307
+NameArray:0,Mac,4,Lato Bold Italic
+NameArray:0,Win,1,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Italic
+FamilyName:Lato
+StyleName:Italic
+MenuName:Lato
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Lato Italic
+WritingScript:Roman
+OutlineFileName:\Lato-Italic.ttf
+DataFormat:sfntData
+FileLength:723544
+FileModTime:1446461307
+NameArray:0,Mac,4,Lato Italic
+NameArray:0,Win,1,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Light
+FamilyName:Lato
+StyleName:Light
+MenuName:Lato Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Lato Light
+WritingScript:Roman
+OutlineFileName:\Lato-Light.ttf
+DataFormat:sfntData
+FileLength:644556
+FileModTime:1446461307
+NameArray:0,Mac,4,Lato Light
+NameArray:0,Win,1,Lato Light
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-LightItalic
+FamilyName:Lato
+StyleName:Light Italic
+MenuName:Lato Light
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Lato Light Italic
+WritingScript:Roman
+OutlineFileName:\Lato-LightItalic.ttf
+DataFormat:sfntData
+FileLength:658212
+FileModTime:1446461307
+NameArray:0,Mac,4,Lato Light Italic
+NameArray:0,Win,1,Lato Light
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Medium
+FamilyName:Lato
+StyleName:Medium
+MenuName:Lato Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Lato Medium
+WritingScript:Roman
+OutlineFileName:\Lato-Medium.ttf
+DataFormat:sfntData
+FileLength:637068
+FileModTime:1446461307
+NameArray:0,Mac,4,Lato Medium
+NameArray:0,Win,1,Lato Medium
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-MediumItalic
+FamilyName:Lato
+StyleName:Medium Italic
+MenuName:Lato Medium
+StyleBits:1
+WeightClass:500
+WidthClass:5
+AngleClass:1
+FullName:Lato Medium Italic
+WritingScript:Roman
+OutlineFileName:\Lato-MediumItalic.ttf
+DataFormat:sfntData
+FileLength:695588
+FileModTime:1446461307
+NameArray:0,Mac,4,Lato Medium Italic
+NameArray:0,Win,1,Lato Medium
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Regular
+FamilyName:Lato
+StyleName:Regular
+MenuName:Lato
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Lato Regular
+WritingScript:Roman
+OutlineFileName:\Lato-Regular.ttf
+DataFormat:sfntData
+FileLength:657212
+FileModTime:1446461307
+NameArray:0,Mac,4,Lato Regular
+NameArray:0,Win,1,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Semibold
+FamilyName:Lato
+StyleName:Semibold
+MenuName:Lato Semibold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Lato Semibold
+WritingScript:Roman
+OutlineFileName:\Lato-Semibold.ttf
+DataFormat:sfntData
+FileLength:669228
+FileModTime:1446461307
+NameArray:0,Mac,4,Lato Semibold
+NameArray:0,Win,1,Lato Semibold
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-SemiboldItalic
+FamilyName:Lato
+StyleName:Semibold Italic
+MenuName:Lato Semibold
+StyleBits:1
+WeightClass:600
+WidthClass:5
+AngleClass:1
+FullName:Lato Semibold Italic
+WritingScript:Roman
+OutlineFileName:\Lato-SemiboldItalic.ttf
+DataFormat:sfntData
+FileLength:698028
+FileModTime:1446461307
+NameArray:0,Mac,4,Lato Semibold Italic
+NameArray:0,Win,1,Lato Semibold
+NameArray:0,Win,16,Lato
+%EndFont
+
